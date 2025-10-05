@@ -12,12 +12,12 @@ git clone <repo-url>
 pip install -r requirements.txt
 ```
 
-## Running The App
+## Menjalankan Web App
 
 ```bash
 python main.py
 ```
 
-## Viewing The App
+## Cara Melihat Web App
 
-Go to `http://127.0.0.1:1903`
+silakan menuju `http://127.0.0.1:1903`
